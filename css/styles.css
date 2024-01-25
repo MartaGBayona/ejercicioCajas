@@ -1,0 +1,62 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#bx {
+    height: 7em;
+    width: 7em;
+    margin: 1em;
+    transition: 0.5s;
+}
+
+#bx:hover {
+    transition: 0.5s;
+    border-radius: 30%;
+    width: 10em;
+    height: 10em;
+    cursor: pointer;
+    background-color: grey;
+}
+
+.box1 {
+    background-color: cadetblue;
+}
+
+.box2 {
+    background-color: aquamarine;
+}
+
+.box3 {
+    background-color: rgba(135, 135, 206, 0.87);
+}
+
+.box4 {
+    background-color: rgb(59, 148, 160);
+}
+
+.box5 {
+    background-color: lightcoral;
+}
+
+.box6 {
+    background-color: rgba(133, 219, 47, 0.801);
+}
+
+.box7 {
+    background-color: violet;
+}
+
+.box8 {
+    background-color: palevioletred;
+}
+
+.box9 {
+    background-color: brown;
+}
+
+.box10 {
+    background-color: red;
+}
